@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /api/*
+Sitemap: https://migrations-e5gkb5aw.manus.space/sitemap.xml
